@@ -1,3 +1,5 @@
+<img src="src/images/corona.png" alt="Showcase" height="130px">
+
 # CovidTracker
 
 ## Available Scripts
